@@ -1,7 +1,7 @@
 {
   "version": "1.0.9",
   "mac_version": "1.0.9",
-  "win_version": "1.0.8",
+  "win_version": "1.0.9",
   "notes": "Mungus v1.0.8 release with dynamic dot indicators, double Caps Lock pause/play, and automatic updates.",
   "mac_dmg_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Mungus.dmg",
   "mac_zip_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Mungus.zip",
