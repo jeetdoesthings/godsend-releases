@@ -1,9 +1,9 @@
 {
-  "version": "1.0.13",
-  "mac_version": "1.0.13",
-  "win_version": "1.0.13",
-  "notes": "Mungus v1.0.8 release with dynamic dot indicators, double Caps Lock pause/play, and automatic updates.",
-  "mac_dmg_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Mungus.dmg",
-  "mac_zip_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Mungus.zip",
-  "win_exe_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Mungus.exe"
+  "version": "1.0.14",
+  "mac_version": "1.0.14",
+  "win_version": "1.0.14",
+  "notes": "Godsend v1.0.14 - Enhanced stealth solve engine and native multi-gateway checkout",
+  "mac_dmg_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Godsend.dmg",
+  "mac_zip_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Godsend.zip",
+  "win_exe_url": "https://raw.githubusercontent.com/jeetdoesthings/mungus-releases/main/Godsend.exe"
 }
