@@ -2,8 +2,9 @@
   "version": "1.0.14",
   "mac_version": "1.0.14",
   "win_version": "1.0.14",
-  "notes": "Godsend v1.0.14 - Enhanced stealth solve engine and native multi-gateway checkout",
+  "notes": "Godsend v1.0.14 - Enhanced stealth solve engine, Universal 2 native macOS binaries, and dual-gateway checkout",
   "mac_dmg_url": "https://raw.githubusercontent.com/jeetdoesthings/godsend-releases/main/Godsend.dmg",
   "mac_zip_url": "https://raw.githubusercontent.com/jeetdoesthings/godsend-releases/main/Godsend.zip",
+  "mac_zip_sha256": "5e9d692faf68091931f16e47c6294fdec8a77c7561dc0c40be7b6f5dce440f50",
   "win_exe_url": "https://raw.githubusercontent.com/jeetdoesthings/godsend-releases/main/Godsend.exe"
 }
